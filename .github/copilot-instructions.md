@@ -43,3 +43,7 @@ Deeper conventions live in dedicated agent skills — load them for focused work
 - **`.github/skills/backend-engineer`** — Kotlin, Spring Boot, JPA, REST endpoint patterns
 - **`.github/skills/designer`** — UI/UX, color palette, accessibility, component design
 - **`.github/skills/yoda`** — May the Force be with your code reviews
+
+- ## Extra Conventions
+- Never use `var` in Kotlin — always use `val` or `lateinit var`.
+
